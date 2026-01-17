@@ -40,13 +40,9 @@ aiming to bridge the gap between complex technology and human experience.
 ### My GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhucHungNanba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" alt="Stats Card" height="180px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PhucHungNanba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats Card" height="180px" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhucHungNanba&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhucHungNanba&theme=tokyonight&hide_border=true&v=1" alt="Streak Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PhucHungNanba&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
 </p>
 
 </div>
