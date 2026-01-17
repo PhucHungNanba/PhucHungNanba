@@ -1,18 +1,42 @@
-<h1 align="center">Hello, I'm Nanba</h1>
-<h3 align="center">A system engineering from Vietnam</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Information Technology in Saigon University**
+# Hi 👋, I'm Phuc Hung (Nanba)
+### 🚀 A Passionate System, Data & Security Engineering Student from Vietnam
 
-- 📫 How to reach me **huynhphuchung3001@gmail.com**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" alt="Quote" />
 
-- 📄 Know about my experiences [https://github.com/PhucHungNanba/Portfolio.git](https://github.com/PhucHungNanba/Portfolio.git)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/phúc-hưng-huynh-9a3a823a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phúc-hưng-huynh-9a3a823a3" height="30" width="40" /></a>
-</p>
+### 💫 About Me:
+📫 How to reach me: **huynhphuchung3001@gmail.com**
+🌱 I’m currently learning **Information Technology** at **Saigon University**
+🔭 I’m focusing on **System Engineering**, **Data Engineering** and **Security**
+📂 My Portfolio: [View My Work](https://github.com/PhucHungNanba/Portfolio.git)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🤝 Connect with me:
+<a href="https://linkedin.com/in/your-profile-link" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://facebook.com/your-profile-link" target="_blank">
+  <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phuchungnanba&" alt="PhucHungNanba" /></p>
+---
+
+### 🛠️ Languages and Tools:
+<img src="https://skillicons.dev/icons?i=cpp,python,java,nodejs,js,mongodb,mysql,postgres,docker,gcp,kali,linux" />
+
+---
+
+### 📊 Activity:
+![PhucHungNanba's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PhucHungNanba&theme=tokyonight)
+
+</div>
+
+---
+
+### 📈 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PhucHungNanba&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhucHungNanba&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
