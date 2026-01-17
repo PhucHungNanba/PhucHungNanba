@@ -12,7 +12,7 @@
 - **Portfolio:** [View My Work](https://github.com/PhucHungNanba/Portfolio.git)
 
 ### Connect with me
-[LinkedIn](https://linkedin.com/in/your-profile-link) | [Facebook](https://facebook.com/your-profile-link)
+[LinkedIn](https://linkedin.com/in/your-profile-link) | [Facebook]([https://facebook.com/your-profile-link](https://www.facebook.com/phuc.hung.269856/))
 
 ---
 
