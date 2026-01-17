@@ -34,4 +34,12 @@ aiming to bridge the gap between complex technology and human experience.
 ### GitHub Stats
 ![PhucHungNanba's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PhucHungNanba&theme=tokyonight)
 
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=PhucHungNanba&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhucHungNanba&layout=compact&theme=tokyonight" alt="Top Langs" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PhucHungNanba&theme=tokyonight" alt="GitHub Streak" />
+
 </div>
