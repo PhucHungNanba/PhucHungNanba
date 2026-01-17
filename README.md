@@ -1,13 +1,13 @@
 <div align="center">
 
-# Phuc Hung (Nanba)
-### Creative Technologist
+## It’s a pleasure to meet you, I'm Nanba
+### a Creative Technologist
 
 ---
 
 ### About Me
 - **Email:** huynhphuchung3001@gmail.com
-- **Education:** IT at Saigon University
+- **Education:** Information Technology at Saigon University
 - **Focus:** Systems, Data & Security
 - **Portfolio:** [View My Work](https://github.com/PhucHungNanba/Portfolio.git)
 
