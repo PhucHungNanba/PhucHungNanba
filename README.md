@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=250&section=header&text=Nanba%20🦭&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Creative%20Technologist%20|%20IT%20Student&descAlignY=55&descSize=25&theme=tokyonight" />
+
 # It’s a pleasure to meet you, I'm Nanba 🦭
 ###  Creative Technologist | IT Student at Saigon University
 
@@ -35,11 +37,15 @@ aiming to bridge the gap between complex technology and human experience.
 ![PhucHungNanba's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PhucHungNanba&theme=tokyonight)
 
 ---
+### My GitHub Journey
 
-<img src="https://github-readme-stats.vercel.app/api?username=PhucHungNanba&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PhucHungNanba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats Card" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhucHungNanba&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhucHungNanba&layout=compact&theme=tokyonight" alt="Top Langs" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PhucHungNanba&theme=tokyonight" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhucHungNanba&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
 
 </div>
