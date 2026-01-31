@@ -1,7 +1,7 @@
 <div align="center">
        
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=250&section=header&text=Nanba%20🦭&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Creative%20Technologist%20|%20IT%20Student&descAlignY=55&descSize=25&theme=tokyonight" />
-  
+     
 # It’s a pleasure to meet you, I'm Nanba 🦭 
 ###  Creative Technologist | IT Student at Saigon University    
      
